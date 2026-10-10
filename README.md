@@ -55,13 +55,13 @@ sudo xbps-install -S gcc meson ninja libcurl-devel nlohmann-json
 
 ## Clone
 
-You can clone Folio from either GitHub or GitLab.
+You can clone foliopedia from either GitHub or GitLab.
 
 ### GitHub
 
 ```bash
-git clone https://github.com/voltiksrc/folio.git
-cd folio
+git clone https://github.com/voltiksrc/foliopedia.git
+cd foliopedia
 ```
 
 ## Build
