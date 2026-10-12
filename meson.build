@@ -13,4 +13,5 @@ executable(
   'main.cpp',
   dependencies: [curl_dep],
   include_directories: inc,
+  install: true,
 )
